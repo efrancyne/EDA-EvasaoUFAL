@@ -1,7 +1,4 @@
-```markdown
- 
-```
-```markdown
+
 # Análise de Dados — UFAL em Números
 
 Descrição
